@@ -1,0 +1,5 @@
+@EndUserText.label: 'Flight Details'
+define service ZRG_FLIGHT_DETAILS {
+  expose ZRG_CONNECTION;
+  expose zi_flight_tech_rg;
+}
